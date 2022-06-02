@@ -1,5 +1,5 @@
 # great_place
-Projeto com aplicao de geo localização no google maps. 
+Projeto com aplicação de geo-localização no google maps. 
 e banco de dados fire base. animação. 
 Curso da Codem prof Leonardo.. o melhor......
 
